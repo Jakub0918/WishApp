@@ -1,0 +1,5 @@
+pl\ambsoft\birthdaybot\TemplateProviderServiceTest.class
+pl\ambsoft\birthdaybot\AdministratorServiceTest.class
+pl\ambsoft\birthdaybot\ZyczenieServiceTest.class
+pl\ambsoft\birthdaybot\PracownikServiceTest.class
+pl\ambsoft\birthdaybot\AutoMailServiceTest.class
